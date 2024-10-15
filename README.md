@@ -1,14 +1,17 @@
-# 🌠Studying the Interstellar Dust 🌠
+## researching the interstellar dust 
 
-![](dust.png)
+<br>
 
-The study of intermediate-age open clusters can be used to the learn about the stellar
-evolution of intermediate-mass stars and the dynamical evolution of clusters together with their interstellar extinction. 
+<p align="center">
+<img width="800" src="dust.png">
+</p>
 
-The interstellar extinction is a sum of absorption and scattering of the light within the interstellar medium, being inversely proportional to the light wavelength. 
+<br>
 
-Consequently, a general increase in absorption toward shorter wavelengths is observed, resulting to the effect of reddening.
+### tl; dr
 
-In this repository I made available the source code for data reduction and analysis in IDL, and my report and results as well.
-
-[Here is the final report in this work](https://github.com/bt3gl/Studying_the_Interstellar_Dust/blob/master/Interstellar_Extinction.pdf).
+* the study of intermediate-age open  clusters can be used to learn about the stellar evolution of  intermediate-mass stars and the dynamical evolution of clusters together with their interstellar extinction
+* the interstellar extinction is a sum of absorption and scattering of the light within the interstellar medium,  being inversely proportional to the light wavelength
+* consequently, a general increase in absorption toward shorter wavelengths is observed, resulting in the effect of reddening
+* in this repository, i made available the source code for data reduction and analysis in IDL, and my report and results, as well
+* **[here is the final report for this work](Interstellar_Extinction.pdf)**
